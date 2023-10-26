@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:wisata_candi/screens/detail_screen.dart';
-
 import 'data/candi_data.dart';
 
 void main() {
