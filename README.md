@@ -1,6 +1,6 @@
 # wisata_candi
 
-Aplikasi Wisata Candi
+A new Flutter project.
 
 ## Getting Started
 
